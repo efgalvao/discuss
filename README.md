@@ -1,3 +1,7 @@
+# About:
+
+Project to learn the basics of Phoenix framework.
+
 # Discuss
 
 To start your Phoenix server:
